@@ -1,0 +1,53 @@
+{
+  "Files": [
+    {
+      "Id": "E:\\RSS\\RSS\\wwwroot\\database.db",
+      "PackagePath": "staticwebassets\\database.db"
+    },
+    {
+      "Id": "E:\\RSS\\RSS\\wwwroot\\depositphotos_14440691-stock-photo-new-york-city-june-28.jpg",
+      "PackagePath": "staticwebassets\\depositphotos_14440691-stock-photo-new-york-city-june-28.jpg"
+    },
+    {
+      "Id": "E:\\RSS\\RSS\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "E:\\RSS\\RSS\\wwwroot\\ivan-davydenko-jmLi0D6MBGw-unsplash.jpg",
+      "PackagePath": "staticwebassets\\ivan-davydenko-jmLi0D6MBGw-unsplash.jpg"
+    },
+    {
+      "Id": "E:\\RSS\\RSS\\wwwroot\\rss (1).png",
+      "PackagePath": "staticwebassets\\rss (1).png"
+    },
+    {
+      "Id": "E:\\RSS\\RSS\\wwwroot\\rss-svgrepo-com.svg",
+      "PackagePath": "staticwebassets\\rss-svgrepo-com.svg"
+    },
+    {
+      "Id": "E:\\RSS\\RSS\\wwwroot\\script.js",
+      "PackagePath": "staticwebassets\\script.js"
+    },
+    {
+      "Id": "E:\\RSS\\RSS\\wwwroot\\style.css",
+      "PackagePath": "staticwebassets\\style.css"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.RSS.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.RSS.props",
+      "PackagePath": "build\\RSS.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.RSS.props",
+      "PackagePath": "buildMultiTargeting\\RSS.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.RSS.props",
+      "PackagePath": "buildTransitive\\RSS.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
